@@ -1,8 +1,3 @@
-/**
- * @fileoverview No color literals used in styles
- * @author Aaron Greenwald
- */
-
 'use strict';
 
 // ------------------------------------------------------------------------------
