@@ -1,4 +1,4 @@
-# ESLint Plugin against `toUpperCase` usage
+# ESLint Plugin against `toUpperCase` usage ![circle](https://circleci.com/gh/DanielMSchmidt/eslint-plugin-no-touppercase.png?circle-token=2af3c44a8656b5a30cedb5af80b0dc3b2b830666)
 
 Simple plugin only for one simple rule, don't use toUpperCase but use toLocaleUpperCase
 
